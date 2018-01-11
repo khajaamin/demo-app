@@ -1,0 +1,10 @@
+
+
+.validation_msg {
+    display: none; 
+
+}
+
+.error {
+    color: red; 
+}
